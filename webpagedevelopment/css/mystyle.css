@@ -1,0 +1,14 @@
+
+p{background-color:green}
+h3,p{font-family:"cooper black"; font-weight:bolder;}
+.a1{font-style:italic}
+.a3{font-variant:small-caps}
+#b1{font-size:0.4}
+ul,li{
+  list-style-image: url(../img/img.png);
+}
+.a1{border: 17px solid #b28fee;
+  border: 13px solid;
+  border-image: url(../img/mini.png) 17 / 5px / 26px stretch;
+  outline: 8px groove #ec1a1a;
+  outline-offset: 31px; box-shadow: 5px 5px 10px 1px #afbd7e;}
