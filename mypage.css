@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap');
+
+
+body{
+    background: linear-gradient(167deg, #ffff88 9%, #ba7afe 100%);
+    background-size:cover;
+    background-attachment: scroll;
+    margin:0
+ }
+
+h1{
+  font-family: Forte, Roboto Slab,Monotype Corsiva;
+  margin-top: 300px;
+margin-bottom: 10px
+ }
+ h3{
+     margin-top: 0;
+     margin-bottom: 290px
+ }
+.about{
+  text-align:center;
+  font-family:ariel;
+  font-size: 30px;
+margin-left: 15%;
+margin-right: 15%;
+padding-bottom: 25%
+}
+.container{
+  padding-right: 10%;
+ padding-left: 10%;
+ margin-right: 80%;
+ margin-left: 80%;
+margin-top: 10%
+}
+
+#navbar
+{
+  font-size: 25px;
+  background-color: #e6bcfa;
+ position:absolute;
+ top: 0;
+ width: 100%;
+}
+#navbar a {
+  float: right;
+  display: flex;
+  justify-content: flex-end;
+  color: yellow;
+  text-align: center;
+  padding: 46px;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#navbar a:hover {
+  background-color: #ffff88;
+  color: #ba7afe  ;
+  text-decoration: none;
+margin-left: 10px;
+}
+.hi{
+  text-align:center;
+  font-family:Forte;
+  font-size: 35px
+
+}
+.can{
+  text-align:center;
+  font-family:Forte;
+    font-size: 35px
+}
+.help,h2{
+  text-align:center;
+  font-family:Forte;
+    font-size: 35px
+}
+
+.img{
+  vertical-align: middle;
+  height: 150px;
+  width: 150px;
+  padding-left: 600px;
+
+}
+.img1{
+  vertical-align: middle;
+  height: 150px;
+  width: 150px;
+  padding-left: 566px;
+
+}
